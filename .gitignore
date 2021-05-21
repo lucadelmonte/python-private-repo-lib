@@ -1,0 +1,16 @@
+.idea/
+venv/
+*.egg-info
+.cache
+*.pyc
+htmlcov
+.coverage
+*/wheelhouse
+*.sql
+*/__pycache__/
+*/.env
+.provisioner-service/config/newrelic.ini
+*-service/telepresence.log
+.vscode
+credentials.txt
+cdn-service/master-key.txt

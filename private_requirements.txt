@@ -1,0 +1,1 @@
+git+https://lucadelmonte:${GITHUB_TOKEN}@github.com/lucadelmonte/common-libs.git@main#subdirectory=cloudio/nameko-utils
